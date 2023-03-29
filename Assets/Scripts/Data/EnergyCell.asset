@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec0b02c666156f947885f14052c0becc, type: 3}
+  m_Name: EnergyCell
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 0
+  <MaxStackSize>k__BackingField: 1
+  <Name>k__BackingField: Energy Cell
+  <Description>k__BackingField: An energy cell to charge a plasma weapons
+  <ItemImage>k__BackingField: {fileID: 21300000, guid: 043167d58acf08d48ad52ab8b4ba45f7, type: 3}
+  <DefaultParametersList>k__BackingField:
+  - itemParameter: {fileID: 11400000, guid: 81a61424c3ac8264a91d48c2a3c0786e, type: 2}
+    value: 50
+  <actionSFX>k__BackingField: {fileID: 0}
+  projectile: {fileID: 7819486948660532713, guid: 2616c4ee68e269e42acd9cf7b85b300c, type: 3}

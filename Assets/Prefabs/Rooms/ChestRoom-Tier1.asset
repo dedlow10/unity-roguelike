@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd28001bd77c45344ad67575ff0073e4, type: 3}
+  m_Name: ChestRoom-Tier1
+  m_EditorClassIdentifier: 
+  chanceWeighted: 1
+  chest: {fileID: 4915407363622131646, guid: a3b2529fd2305a64a908cf2e135a44b4, type: 3}
+  items:
+  - {fileID: 8957460681508598949, guid: 68c476063d69136479d2f01a57c0b520, type: 3}
+  - {fileID: 7445510659485172667, guid: b22fb7ffc51be364ea18b2455df90cf8, type: 3}
+  - {fileID: 7445510659485172667, guid: 3fc2dfc3b22df9146a123024d036e218, type: 3}

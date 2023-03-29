@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4185996802559f41a50482c0c8828eb, type: 3}
+  m_Name: LaserShotgun
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 0
+  <MaxStackSize>k__BackingField: 1
+  <Name>k__BackingField: Laser Shotgun
+  <Description>k__BackingField: Heavy damage, slower fire rate
+  <ItemImage>k__BackingField: {fileID: -1864063574, guid: 7311caa2366e04549bd79ccf1df8c612, type: 3}
+  <DefaultParametersList>k__BackingField: []
+  currentAmmo: 25
+  maxAmmo: 25
+  weapon: {fileID: 8646743471149374783, guid: a4bf604d36cf9984abd6bc9bf7587a22, type: 3}

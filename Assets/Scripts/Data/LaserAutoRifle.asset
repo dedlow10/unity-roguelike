@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4185996802559f41a50482c0c8828eb, type: 3}
+  m_Name: LaserAutoRifle
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 0
+  <MaxStackSize>k__BackingField: 1
+  <Name>k__BackingField: Laser Auto Rifle
+  <Description>k__BackingField: Fast Fire Rate
+  <ItemImage>k__BackingField: {fileID: 1810692613, guid: 7311caa2366e04549bd79ccf1df8c612, type: 3}
+  <DefaultParametersList>k__BackingField: []
+  maxAmmo: 200
+  weapon: {fileID: 8646743471149374783, guid: 1415cfba605f0c74d8dcced58b573930, type: 3}
